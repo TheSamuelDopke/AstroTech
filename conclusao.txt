@@ -1,1 +1,2 @@
 #1 O desenvolvimento da pagina inicial e o sistema de calculo do quadrado foi feito em 3 dias, falta implementar o sistema de calculo com javascript e adicionar demais funcionalidades.
+#2 Em apenas 5 dias, foi desenvolvido o script responsável por referenciar os elementos HTML e realizar o cálculo do quadrado de um número. Além disso, foram feitas algumas melhorias básicas no CSS.
