@@ -29,6 +29,10 @@
         border-radius: 10px;
         padding: 20px;
       }
+
+      input {
+        width: 100%;
+      }
     </style>
   </head>
   <body>
@@ -51,6 +55,12 @@
         var calculo = valorQuadrado.value * valorQuadrado.value;
 
         resultado.innerHTML = `O resultado de ${valorQuadrado.value} ao quadrado é ${calculo}`;
+
+        valorQuadrado.value = "";
+
+        if (valorQuadrado.value == "") {
+          valorQuadrado.placeholder = "Digite outro número aqui!";
+        }
       });
     </script>
   </body>
