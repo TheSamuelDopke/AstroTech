@@ -1,2 +1,5 @@
 #1 Desenvolvimento da pagina inicial do AstroTech juntamente com o html e css do sistema de cálculo do quadrado 
 - Deverá ser entregue em 5 dias a partir de hoje
+
+#2 Referenciar elementos HTML, realizar os cálculos referente ao quadrado com JavaScript e exibir o resultado ao usuário
+- Deverá ser entregue em 7 dias a partir de hoje
