@@ -1,0 +1,3 @@
+Planejamento: 1 dia
+Desenvolvimento: 3 dias
+Conclusão: 1 dia

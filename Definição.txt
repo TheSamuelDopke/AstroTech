@@ -1,0 +1,11 @@
+    Após discutirmos sobre o projeto, definimos que o mesmo seria relacionado a matemática, mais especificadamente, á geometria.
+
+ Pensamos em fazer um projeto capaz de calcular a área de certas figuras geométricas, utilizando JavaScript, HTML e CSS.
+Nosso projeto consiste em ajudar principalmente estudantes do ensino fundamental e médio no qual possuem dificuldade com matemática, ou
+até mesmo buscam ser mais ágeis em certos cálculos.
+
+ Nossa primeira versão do projeto incluirá as áreas das figuras:
+ - Quadrado;
+ - Trapézio;
+ - Triângulo equilátero;
+ - Circunferência

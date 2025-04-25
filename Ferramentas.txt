@@ -1,0 +1,9 @@
+    Dentre as ferramentas utilizadas durante a produção do projeto, pode-se citar:
+
+GitHub: responsável pelo repositório e versionamento do código.
+Git: função de linkar o repositório do GitHub com a máquina local.
+GitTortoise: exerce a mesma função do Git porém de maneira mais visual, utilizado por Joelinton.
+Visual Studio Code: software utilizado para criar a codificação.|
+    - JavaScript
+    - HTML
+    - CSS
