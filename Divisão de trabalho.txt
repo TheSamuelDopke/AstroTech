@@ -1,0 +1,10 @@
+    Cada membro do grupo exerceu uma função, sendo elas:
+
+Planejamento (define e documenta o projeto, ferramentas utilizadas e cronograma)
+     Arthur
+
+Desenvolvimento (relacionado ao processo de codificação)
+     Samuel
+
+Conclusão (presente no final do processo, cujo objetivo será analisar a existencia de bugs e possível melhorias para o sistema)
+     Joelinton
