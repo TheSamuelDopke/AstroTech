@@ -1,0 +1,1 @@
+#1 O desenvolvimento da pagina inicial e o sistema de calculo do quadrado foi feito em 3 dias, falta implementar o sistema de calculo com javascript e adicionar demais funcionalidades.
